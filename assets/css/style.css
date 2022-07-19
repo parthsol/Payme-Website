@@ -1,0 +1,125 @@
+.navbar-brand {
+    color: #25A4AD;
+}
+
+.btn {
+    color: #25A4AD;
+}
+
+.btn-outline-custom {
+    border: 1px solid #25A4AD;
+}
+
+.btn-outline-custom:hover {
+    background-color: #25A4AD;
+    color: white;
+}
+
+h1,
+h2 {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+h2 {
+    color: #25A4AD;
+}
+
+.bg-costom {
+    background-color: #25A4AD;
+    color: white;
+}
+
+.container .color {
+    color: #25A4AD;
+}
+
+.bg-image {
+    background-image: url(/assets/images/Rectangle\ 32.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.container .bg-light {
+    border-radius: 0px 0px 236px 0px;
+}
+
+.checked {
+    color: orange;
+}
+
+.card-pricing.popular {
+    z-index: 1;
+    border: 3px solid #007bff;
+}
+
+.card-pricing .list-unstyled li {
+    padding: .5rem 0;
+    color: #6c757d;
+}
+
+.card {
+    width: 20rem;
+}
+
+.active-radio {
+    color: #25A4AD;
+}
+
+.card-1:hover,
+.image-hover:hover {
+    transform: translateY(-20px);
+    box-shadow: 0px 20px 20px 4px #6c757d;
+    color: #25A4AD;
+}
+
+.btn-outline-custom1 {
+    border: 1px solid #25A4AD;
+}
+
+.btn-outline-custom1:hover {
+    border: 1px solid #25A4AD;
+    background-color: #25A4AD;
+    color: white;
+}
+
+.accordion-button::after {
+    background-image: url("../images/Icon.svg");
+    order: -1;
+    margin-left: 0;
+    margin-right: 0.5em;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url("../images/minus-svgrepo-com.svg");
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.btn-outline-light:hover {
+    color: black;
+}
+
+.container .carousel-indicator button {
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+}
+
+.carousel-indicator .active {
+    background-color: #25A4AD;
+}
+
+.carousel-indicator .active::before {
+    background-color: currentColor;
+}
